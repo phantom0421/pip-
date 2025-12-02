@@ -1,0 +1,5 @@
+{
+  "name": "PipMaster Visualizer",
+  "description": "A modern, AI-powered dashboard to manage, visualize, and analyze Python pip packages. Import your environment, analyze dependencies with Gemini, and simulate uninstalls.",
+  "requestFramePermissions": []
+}
